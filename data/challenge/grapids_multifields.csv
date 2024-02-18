@@ -1,0 +1,368 @@
+FID,Id,Address,City,County,State,Zip,Country
+0,4,754 Ridgefield Dr,Coopersville,Ottawa County,Michigan,49404,USA
+1,6,3746 Knapp St NE,Grand Rapids,Kent County,Michigan,49525,USA
+2,11,4115 64th St SW,Grandville,Kent County,Michigan,49418,USA
+3,12,2017 Harding St,Conklin,Ottawa County,Michigan,49403,USA
+4,16,1410 117th Ave,Otsego,Allegan County,Michigan,49078,USA
+5,20,2420 Valentine Blvd NE,Grand Rapids,Kent County,Michigan,49525,USA
+6,23,315 Wilson Ave NW,Grand Rapids,Kent County,Michigan,49534,USA
+7,26,293 Dratz St,Muskegon,Muskegon County,Michigan,49442,USA
+8,37,3232 Lake Dr SE,Grand Rapids,Kent County,Michigan,49546,USA
+9,41,23149 16th Ave,Conklin,Ottawa County,Michigan,49403,USA
+10,46,15460 Larsen Ave NE,Gowen,Kent County,Michigan,49326,USA
+11,47,662 N Mill Iron Rd,Muskegon,Muskegon County,Michigan,49442,USA
+12,48,33 Pond Ridge Dr NE,Grand Rapids,Kent County,Michigan,49546,USA
+13,52,1999 Warden Rd,Orleans,Ionia County,Michigan,48865,USA
+14,54,8865 Croswell Ave,Newaygo,Newaygo County,Michigan,49337,USA
+15,58,4567 47th St,Holland,Allegan County,Michigan,49423,USA
+16,60,6903 100th St SE,Caledonia,Kent County,Michigan,49316,USA
+17,62,3737 12th St,Wayland,Allegan County,Michigan,49348,USA
+18,64,3563 34th St,Hamilton,Allegan County,Michigan,49419,USA
+19,65,2299 35th St,Allegan,Allegan County,Michigan,49010,USA
+20,66,11960 Lincoln St,Grand Haven,Ottawa County,Michigan,49417,USA
+21,70,792 Pine Bay Ave,Holland,Ottawa County,Michigan,49424,USA
+22,72,11042 8th Ave NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+23,77,6318 Barry St,Hudsonville,Ottawa County,Michigan,49426,USA
+24,79,6948 W Dickerson Lake Rd,Greenville,Montcalm County,Michigan,48838,USA
+25,80,4472 46th St,Holland,Allegan County,Michigan,49423,USA
+26,82,300 Rockford Park Dr NE,Rockford,Kent County,Michigan,49341,USA
+27,84,2723 9 Mile Rd NW,Grand Rapids,Kent County,Michigan,49544,USA
+28,89,14501 Stout Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+29,96,14944 Riley St,Holland,Ottawa County,Michigan,49424,USA
+30,101,38 Rockview Dr NE,Rockford,Kent County,Michigan,49341,USA
+31,104,15692 Taylor St,West Olive,Ottawa County,Michigan,49460,USA
+32,108,4891 N Black Rd,Coral,Montcalm County,Michigan,49322,USA
+33,109,1113 S Peters Rd,Casnovia,Muskegon County,Michigan,49318,USA
+34,118,7631 N Noffke Dr,Caledonia,Barry County,Michigan,49316,USA
+35,120,3501 Hillcroft Ave SW,Grand Rapids,Kent County,Michigan,49548,USA
+36,121,17457 Marduk Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+37,124,1153 Biggs Ave NE,Lowell,Kent County,Michigan,49331,USA
+38,125,1751 Newark Ave SE,Grand Rapids,Kent County,Michigan,49507,USA
+39,129,4112 Cherry Ln SE,Ada,Kent County,Michigan,49301,USA
+40,131,4376 Unity Dr,Hudsonville,Ottawa County,Michigan,49426,USA
+41,132,6970 E Farr Rd,Nunica,Muskegon County,Michigan,49448,USA
+42,136,2217 138th Ave,Dorr,Allegan County,Michigan,49323,USA
+43,139,5425 132nd Ave,Hamilton,Allegan County,Michigan,49419,USA
+44,140,762 Tamarack Ave NW,Grand Rapids,Kent County,Michigan,49504,USA
+45,144,2290 Tunnel Breeze Ct,Holland,Ottawa County,Michigan,49424,USA
+46,145,6500 S Moorland Rd,Ravenna,Muskegon County,Michigan,49451,USA
+47,147,2772 E 136th St,Grant,Newaygo County,Michigan,49327,USA
+48,149,9581 Bass Dr,Allendale,Ottawa County,Michigan,49401,USA
+49,154,13647 Lake Michigan Dr,West Olive,Ottawa County,Michigan,49460,USA
+50,160,3734 20th St,Dorr,Allegan County,Michigan,49323,USA
+51,161,14382 Cooper Creek Dr,Gowen,Kent County,Michigan,49326,USA
+52,162,2820 M-37,Middleville,Barry County,Michigan,49333,USA
+53,169,901 W Ellis Ave,Belding,Ionia County,Michigan,48809,USA
+54,170,1155 Park St SW,Grand Rapids,Kent County,Michigan,49504,USA
+55,172,8719 Rickert Rd,Saranac,Ionia County,Michigan,48881,USA
+56,174,11945 Taft St,Nunica,Ottawa County,Michigan,49448,USA
+57,175,3938 M-79,Hastings,Barry County,Michigan,49058,USA
+58,176,5380 Waldorf Rd,Delton,Barry County,Michigan,49046,USA
+59,177,1413 36th Ave,Hudsonville,Ottawa County,Michigan,49426,USA
+60,178,326 S Higgins Rd,Saranac,Ionia County,Michigan,48881,USA
+61,180,14055 Myers Lake Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+62,182,2962 Fox Dr,Grant,Newaygo County,Michigan,49327,USA
+63,188,7667 W Rapp Dr,Grant,Newaygo County,Michigan,49327,USA
+64,191,15239 White Rd,Bailey,Muskegon County,Michigan,49303,USA
+65,192,3187 Ridges Bnd,Grand Rapids,Kent County,Michigan,49546,USA
+66,195,1892 E Vedder Rd,Lake Odessa,Barry County,Michigan,48849,USA
+67,196,16730 Kendalville Rd,Coral,Montcalm County,Michigan,49322,USA
+68,207,10147 Pease Ave SE,Byron Center,Kent County,Michigan,49315,USA
+69,210,14341 White Creek Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+70,212,751 Riley St,Holland,Ottawa County,Michigan,49424,USA
+71,215,4078 Whirlwind Dr NE,Rockford,Kent County,Michigan,49341,USA
+72,216,433 Crofton St SE,Grand Rapids,Kent County,Michigan,49507,USA
+73,217,3587 18th St,Wayland,Allegan County,Michigan,49348,USA
+74,218,106 Loch Lomond Ave NE,Grand Rapids,Kent County,Michigan,49546,USA
+75,222,2437 Franklin St,Hudsonville,Ottawa County,Michigan,49426,USA
+76,224,7500 Shooting Range Trl,Middleville,Barry County,Michigan,49333,USA
+77,229,12462 Johnson St,Grand Haven,Ottawa County,Michigan,49417,USA
+78,231,2905 Edgewood Ave NE,Grand Rapids,Kent County,Michigan,49505,USA
+79,233,1850 W Tupper Heights Dr,Lake Odessa,Ionia County,Michigan,48849,USA
+80,236,1849 Westwood Dr NE,Grand Rapids,Kent County,Michigan,49525,USA
+81,238,4990 Cooley Rd,Fruitport,Muskegon County,Michigan,49415,USA
+82,240,1582 S Briggs Rd,Middleville,Barry County,Michigan,49333,USA
+83,243,226 Montgomery St SE,Grand Rapids,Kent County,Michigan,49507,USA
+84,246,3671 40th Ave,Hudsonville,Ottawa County,Michigan,49426,USA
+85,248,1424 W Main St,Ionia,Ionia County,Michigan,48846,USA
+86,250,12042 Hile Rd,Ravenna,Muskegon County,Michigan,49451,USA
+87,255,5839 Thornapple River Dr SE,Grand Rapids,Kent County,Michigan,49512,USA
+88,257,9067 Wellman Rd NE,Greenville,Kent County,Michigan,48838,USA
+89,271,3685 Butterworth Dr SW,Grand Rapids,Kent County,Michigan,49534,USA
+90,272,2650 Lowell View Ave,Lowell,Kent County,Michigan,49331,USA
+91,274,7977 Ashwood Dr SE,Ada,Kent County,Michigan,49301,USA
+92,277,23899 N Derek Dr,Sand Lake,Montcalm County,Michigan,49343,USA
+93,279,7700 Ridgewood Dr,Jenison,Ottawa County,Michigan,49428,USA
+94,280,14251 Podunk Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+95,283,16774 40th Ave,Coopersville,Ottawa County,Michigan,49404,USA
+96,284,14689 Myers Lake Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+97,286,1417 3 Mile Rd NE,Grand Rapids,Kent County,Michigan,49505,USA
+98,288,1957 E Vedder Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+99,293,5844 Treebrook Ln NE,Ada,Kent County,Michigan,49301,USA
+100,296,1685 Summit Crest Ct NE,Belmont,Kent County,Michigan,49306,USA
+101,300,2176 E Laketon Ave,Muskegon,Muskegon County,Michigan,49442,USA
+102,304,13476 76th St SE,Alto,Kent County,Michigan,49302,USA
+103,309,4096 138th Ave,Hamilton,Allegan County,Michigan,49419,USA
+104,310,729 Haynor Rd,Ionia,Ionia County,Michigan,48846,USA
+105,323,1841 76th Ave,Zeeland,Ottawa County,Michigan,49464,USA
+106,324,5352 Hilton Park Rd,Fruitport,Muskegon County,Michigan,49415,USA
+107,328,3254 Bass Lake Rd,Pierson,Montcalm County,Michigan,49339,USA
+108,329,5424 Wing Ave SE,Grand Rapids,Kent County,Michigan,49512,USA
+109,330,3300 10 Mile Rd NE,Rockford,Kent County,Michigan,49341,USA
+110,334,11944 Fillmore St,West Olive,Ottawa County,Michigan,49460,USA
+111,337,9515 Wilson Ave SW,Byron Center,Kent County,Michigan,49315,USA
+112,338,5120 Hostad Rd,Nunica,Muskegon County,Michigan,49448,USA
+113,339,550 Washington Ave,Holland,Ottawa County,Michigan,49423,USA
+114,343,19478 Kendalville Rd,Howard City,Montcalm County,Michigan,49329,USA
+115,344,2810 16 Mile Rd NE,Cedar Springs,Kent County,Michigan,49319,USA
+116,346,8712 Bever Rd,Delton,Barry County,Michigan,49046,USA
+117,349,360 Douglas Ave,Holland,Ottawa County,Michigan,49424,USA
+118,350,2761 Wildberry Dr,Lowell,Kent County,Michigan,49331,USA
+119,353,2758 S Whitmore Rd,Hastings,Barry County,Michigan,49058,USA
+120,359,2463 Fam Lee Dr,Muskegon,Muskegon County,Michigan,49442,USA
+121,361,4440 7 Mile Rd NE,Belmont,Kent County,Michigan,49306,USA
+122,363,3996 Clearview St NE,Grand Rapids,Kent County,Michigan,49546,USA
+123,366,1657 Parkland Trl NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+124,367,11815 Lewis Rd,Plainwell,Barry County,Michigan,49080,USA
+125,370,15364 Rannes St,Spring Lake,Ottawa County,Michigan,49456,USA
+126,371,10783 Sycamore Ave,Grant,Newaygo County,Michigan,49327,USA
+127,372,3310 Cline Rd,Muskegon,Muskegon County,Michigan,49444,USA
+128,373,6866 E 128th St,Sand Lake,Newaygo County,Michigan,49343,USA
+129,375,14170 Keller Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+130,380,739 Marcia St SW,Wyoming,Kent County,Michigan,49509,USA
+131,382,599 Riverview Dr,Greenville,Montcalm County,Michigan,48838,USA
+132,383,23753 8th Ave,Casnovia,Ottawa County,Michigan,49318,USA
+133,388,9716 Jordan River Dr SE,Alto,Kent County,Michigan,49302,USA
+134,389,12883 Long Lake Dr,Sparta,Kent County,Michigan,49345,USA
+135,391,11750 Cedar Rock Dr NE,Rockford,Kent County,Michigan,49341,USA
+136,397,2753 Miriam Rd,Saranac,Ionia County,Michigan,48881,USA
+137,398,4175 Thornapple Hills Dr,Middleville,Barry County,Michigan,49333,USA
+138,400,7280 Storey Rd,Belding,Ionia County,Michigan,48809,USA
+139,403,4037 Bedaki Ave NE,Lowell,Kent County,Michigan,49331,USA
+140,405,2836 Fox Dr,Grant,Newaygo County,Michigan,49327,USA
+141,408,14328 100th St SE,Freeport,Kent County,Michigan,49325,USA
+142,409,4760 82nd St SW,Byron Center,Kent County,Michigan,49315,USA
+143,411,1108 Sydney Dr NW,Grand Rapids,Kent County,Michigan,49534,USA
+144,412,7462 N Fighter Rd,Freeport,Barry County,Michigan,49325,USA
+145,413,7708 S Gracemoor Ct SE,Alto,Kent County,Michigan,49302,USA
+146,421,2188 Fair Ridge Dr NE,Ada,Kent County,Michigan,49301,USA
+147,422,18664 20th Ave,Conklin,Ottawa County,Michigan,49403,USA
+148,429,12540 Shaner Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+149,435,6170 E 88th St,Newaygo,Newaygo County,Michigan,49337,USA
+150,436,4851 W Carson City Rd,Greenville,Montcalm County,Michigan,48838,USA
+151,437,14658 Quebec Dr,Spring Lake,Ottawa County,Michigan,49456,USA
+152,439,3693 E 94th St,Newaygo,Newaygo County,Michigan,49337,USA
+153,443,1868 Roosevelt St,Coopersville,Ottawa County,Michigan,49404,USA
+154,446,703 Cambridge Blvd SE,Grand Rapids,Kent County,Michigan,49506,USA
+155,447,4279 42nd St,Hamilton,Allegan County,Michigan,49419,USA
+156,451,6535 Port Sheldon St,Hudsonville,Ottawa County,Michigan,49426,USA
+157,455,9538 56th Ave,Hudsonville,Ottawa County,Michigan,49426,USA
+158,457,2475 Pinesboro Dr NE,Grand Rapids,Kent County,Michigan,49525,USA
+159,459,7052 Seeley Rd,Belding,Ionia County,Michigan,48809,USA
+160,461,12988 Beardslee Rd NE,Greenville,Kent County,Michigan,48838,USA
+161,464,7031 McKibbin Rd,Delton,Barry County,Michigan,49046,USA
+162,466,336 Sherwin NE,Cedar Springs,Kent County,Michigan,49319,USA
+163,469,574 Jefferson Ave SE,Grand Rapids,Kent County,Michigan,49503,USA
+164,473,5300 Peacock Pointe,Alto,Kent County,Michigan,49302,USA
+165,474,3176 Rolling Oaks Ct,Hamilton,Allegan County,Michigan,49419,USA
+166,475,23585 36th Ave,Ravenna,Ottawa County,Michigan,49451,USA
+167,477,8986 S Park Blvd,Newaygo,Newaygo County,Michigan,49337,USA
+168,480,580 Clark Dr NW,Comstock Park,Kent County,Michigan,49321,USA
+169,482,17919 40th Ave,Conklin,Ottawa County,Michigan,49403,USA
+170,486,13136 Maple Island Rd,Twin Lake,Newaygo County,Michigan,49457,USA
+171,487,5831 Chicago Dr,Zeeland,Ottawa County,Michigan,49464,USA
+172,489,12887 Cleveland St,Nunica,Ottawa County,Michigan,49448,USA
+173,492,5351 Alpine Ave NW,Comstock Park,Kent County,Michigan,49321,USA
+174,496,1775 Evanston Ave,Muskegon,Muskegon County,Michigan,49442,USA
+175,497,10953 17 Mile Rd NE,Cedar Springs,Kent County,Michigan,49319,USA
+176,501,1860 Collingwood Ave SW,Wyoming,Kent County,Michigan,49519,USA
+177,502,9945 Sayles Rd,Lowell,Ionia County,Michigan,49331,USA
+178,503,1149 Oaklawn St NE,Grand Rapids,Kent County,Michigan,49505,USA
+179,509,10508 Connelly Rd NE,Greenville,Kent County,Michigan,48838,USA
+180,510,1599 S Edgewood St,Greenville,Montcalm County,Michigan,48838,USA
+181,514,2247 28th St,Allegan,Allegan County,Michigan,49010,USA
+182,517,325 Reno Dr,Wayland,Allegan County,Michigan,49348,USA
+183,518,4551 W Tupper Lake Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+184,520,16109 Force Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+185,523,799 Monarch St,Spring Lake,Ottawa County,Michigan,49456,USA
+186,525,3250 Gold Dust St NE,Rockford,Kent County,Michigan,49341,USA
+187,528,5353 Mick Ave SE,Grand Rapids,Kent County,Michigan,49548,USA
+188,529,6036 Arroyo Vista Dr NE,Rockford,Kent County,Michigan,49341,USA
+189,535,17954 Brucker St,Grand Haven,Ottawa County,Michigan,49417,USA
+190,537,4431 22nd St,Dorr,Allegan County,Michigan,49323,USA
+191,538,1451 Nagel Ave SW,Wyoming,Kent County,Michigan,49509,USA
+192,541,4986 Eisenhower Dr,Hudsonville,Ottawa County,Michigan,49426,USA
+193,542,4723 61st St,Holland,Allegan County,Michigan,49423,USA
+194,550,810 58th St SW,Wyoming,Kent County,Michigan,49509,USA
+195,551,2466 Buehler Rd,Hastings,Barry County,Michigan,49058,USA
+196,552,304 Leonard St NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+197,555,345 W Portland Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+198,559,12787 Jordan Lake Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+199,561,17507 McPhail Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+200,567,919 36th St SW,Wyoming,Kent County,Michigan,49509,USA
+201,568,4667 10th St,Wayland,Allegan County,Michigan,49348,USA
+202,570,4728 60th St SW,Grandville,Kent County,Michigan,49418,USA
+203,572,7563 Fire Tower Trl,Middleville,Barry County,Michigan,49333,USA
+204,574,9662 Hanna Lake Ave SE,Caledonia,Kent County,Michigan,49316,USA
+205,580,4386 W Boyer Rd,Greenville,Montcalm County,Michigan,48838,USA
+206,593,4072 Thornapple River Dr SE,Grand Rapids,Kent County,Michigan,49512,USA
+207,598,10499 W Parmalee Rd,Middleville,Barry County,Michigan,49333,USA
+208,601,4479 59th St,Holland,Allegan County,Michigan,49423,USA
+209,602,1479 Sullivan Rd,Ravenna,Muskegon County,Michigan,49451,USA
+210,604,4513 Jordan Lake Rd,Ionia,Ionia County,Michigan,48846,USA
+211,605,1320 Beckwith Ave NE,Grand Rapids,Kent County,Michigan,49505,USA
+212,606,9179 21 Mile Rd NE,Sand Lake,Kent County,Michigan,49343,USA
+213,608,21557 Lake Montcalm Rd,Howard City,Montcalm County,Michigan,49329,USA
+214,610,12800 Sycamore Point Dr,Plainwell,Barry County,Michigan,49080,USA
+215,613,5666 Park Ave,Hudsonville,Ottawa County,Michigan,49426,USA
+216,617,10304 Locust Ave,Howard City,Newaygo County,Michigan,49329,USA
+217,620,18471 96th Ave,Coopersville,Ottawa County,Michigan,49404,USA
+218,623,827 Northland Dr NE,Rockford,Kent County,Michigan,49341,USA
+219,626,13899 Mote Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+220,629,2834 120th Ave,Allegan,Allegan County,Michigan,49010,USA
+221,633,4163 Kalamazoo Dr,Wayland,Allegan County,Michigan,49348,USA
+222,637,1870 Peck St,Muskegon,Muskegon County,Michigan,49441,USA
+223,639,422 116th Ave,Martin,Allegan County,Michigan,49070,USA
+224,640,8085 Sternberg Rd,Nunica,Muskegon County,Michigan,49448,USA
+225,641,6502 W Dickerson Lake Rd,Greenville,Montcalm County,Michigan,48838,USA
+226,643,113 92nd St SW,Byron Center,Kent County,Michigan,49315,USA
+227,644,16136 New Holland St,Holland,Ottawa County,Michigan,49424,USA
+228,645,17042 Algoma Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+229,647,14289 Tyrone Ave NW,Kent City,Kent County,Michigan,49330,USA
+230,649,5976 84th Ave,Zeeland,Ottawa County,Michigan,49464,USA
+231,653,11545 Morgan Mills Rd NE,Greenville,Kent County,Michigan,48838,USA
+232,657,2284 Berlin Fair Dr,Marne,Ottawa County,Michigan,49435,USA
+233,660,9630 Swem St NE,Rockford,Kent County,Michigan,49341,USA
+234,661,2814 32nd St,Allegan,Allegan County,Michigan,49010,USA
+235,662,2528 Hall Rd,Hastings,Barry County,Michigan,49058,USA
+236,663,13824 Hickory Rd,Fruitport,Ottawa County,Michigan,49415,USA
+237,664,1632 Linden Ave SE,Grand Rapids,Kent County,Michigan,49507,USA
+238,668,606 Cyrus St,Ionia,Ionia County,Michigan,48846,USA
+239,675,500 S Walker Rd,Muskegon,Muskegon County,Michigan,49442,USA
+240,678,346 N Moorland Rd,Ravenna,Muskegon County,Michigan,49451,USA
+241,679,2050 Port City Blvd,Muskegon,Muskegon County,Michigan,49442,USA
+242,680,1846 Marquette Rd,Ionia,Ionia County,Michigan,48846,USA
+243,684,3206 S Cook Rd,Hastings,Barry County,Michigan,49058,USA
+244,685,13469 Belding Rd NE,Belding,Kent County,Michigan,48809,USA
+245,686,5620 N Wellman Rd,Woodland,Barry County,Michigan,48897,USA
+246,690,4719 Fox Hill Ln,Macatawa,Allegan County,Michigan,49434,USA
+247,694,2155 Adams St SW,Byron Center,Ottawa County,Michigan,49315,USA
+248,697,4237 64th St,Holland,Allegan County,Michigan,49423,USA
+249,706,3511 3 Mile Rd NW,Grand Rapids,Kent County,Michigan,49544,USA
+250,707,197 Leonard St NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+251,711,9003 Bosworth Dr,Jenison,Ottawa County,Michigan,49428,USA
+252,713,8208 Wilderness Trl NE,Ada,Kent County,Michigan,49301,USA
+253,718,17680 White Rd,Bailey,Muskegon County,Michigan,49303,USA
+254,719,154 Boynton Ave SE,Lowell,Kent County,Michigan,49331,USA
+255,721,4378 Kalamazoo Dr,Caledonia,Allegan County,Michigan,49316,USA
+256,724,8547 66th St SE,Alto,Kent County,Michigan,49302,USA
+257,727,9618 Ramsdell Dr NE,Rockford,Kent County,Michigan,49341,USA
+258,729,12154 E Devis Rd,West Olive,Ottawa County,Michigan,49460,USA
+259,733,13303 Van Buren St,Holland,Ottawa County,Michigan,49424,USA
+260,735,4992 Twin Creek Estates Dr,Rockford,Kent County,Michigan,49341,USA
+261,736,2047 Southland Dr,Muskegon,Muskegon County,Michigan,49442,USA
+262,737,602 Wild Flower Dr,Wayland,Allegan County,Michigan,49348,USA
+263,738,4100 Honey Creek Ave NE,Ada,Kent County,Michigan,49301,USA
+264,739,4765 Ellison Rd,Belding,Ionia County,Michigan,48809,USA
+265,741,4806 S Norris Rd,Delton,Barry County,Michigan,49046,USA
+266,742,2712 19th St,Hopkins,Allegan County,Michigan,49328,USA
+267,743,11749 Peck Lake Rd,Lowell,Ionia County,Michigan,49331,USA
+268,744,3305 18 Mile Rd NE,Cedar Springs,Kent County,Michigan,49319,USA
+269,746,6455 Annabelle Dr,Allendale,Ottawa County,Michigan,49401,USA
+270,749,11889 Belding Rd NE,Belding,Kent County,Michigan,48809,USA
+271,751,2120 Winans St NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+272,755,13033 Darby Rd,Lake Odessa,Ionia County,Michigan,48849,USA
+273,756,741 7th St NW,Grand Rapids,Kent County,Michigan,49504,USA
+274,759,13490 Greenleaf Ln,Grand Haven,Ottawa County,Michigan,49417,USA
+275,760,11945 Wabasis Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+276,761,4498 Glaspie Lake Trl,Delton,Barry County,Michigan,49046,USA
+277,762,14589 24th Ave,Marne,Ottawa County,Michigan,49435,USA
+278,763,1279 Market Ave SW,Grand Rapids,Kent County,Michigan,49503,USA
+279,764,1638 132nd Ave,Hopkins,Allegan County,Michigan,49328,USA
+280,765,3847 100th St SW,Byron Center,Kent County,Michigan,49315,USA
+281,766,2291 MacArthur Rd,Muskegon,Muskegon County,Michigan,49442,USA
+282,772,1836 140th Ave,Dorr,Allegan County,Michigan,49323,USA
+283,773,2326 123rd Ave,Hopkins,Allegan County,Michigan,49328,USA
+284,778,11890 Nickels Dr NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+285,781,8367 Belding Rd NE,Rockford,Kent County,Michigan,49341,USA
+286,782,10225 Baker Rd,Greenville,Montcalm County,Michigan,48838,USA
+287,783,3019 136th Ave,Hamilton,Allegan County,Michigan,49419,USA
+288,784,11648 60th Ave,Allendale,Ottawa County,Michigan,49401,USA
+289,787,130 E 40th St,Holland,Allegan County,Michigan,49423,USA
+290,789,10363 Outdoor Center Trl,Middleville,Barry County,Michigan,49333,USA
+291,790,1511 E Apple Ave,Muskegon,Muskegon County,Michigan,49442,USA
+292,794,37 Lamoreaux Dr NE,Comstock Park,Kent County,Michigan,49321,USA
+293,796,10031 Myers Lake Ave NE,Rockford,Kent County,Michigan,49341,USA
+294,797,9141 48th Ave,Hudsonville,Ottawa County,Michigan,49426,USA
+295,803,79 Byron Rd SW,Byron Center,Ottawa County,Michigan,49315,USA
+296,810,7273 Tiffany Ave NE,Rockford,Kent County,Michigan,49341,USA
+297,811,14175 S Elder Ave,Grant,Newaygo County,Michigan,49327,USA
+298,812,14521 Podunk Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+299,816,18287 Bailey Rd,Bailey,Muskegon County,Michigan,49303,USA
+300,817,3001 Peregrine Dr NE,Grand Rapids,Kent County,Michigan,49525,USA
+301,826,8399 N Johnson Rd,Belding,Ionia County,Michigan,48809,USA
+302,829,7300 Blackmer Rd,Coopersville,Muskegon County,Michigan,49404,USA
+303,830,8979 Je NE Be Dr NE,Rockford,Kent County,Michigan,49341,USA
+304,831,3613 Valley View Dr,Muskegon,Muskegon County,Michigan,49444,USA
+305,836,2560 E 100th St,Grant,Newaygo County,Michigan,49327,USA
+306,837,878 S Cook Rd,Hastings,Barry County,Michigan,49058,USA
+307,840,11545 Peach Ridge Ave NW,Sparta,Kent County,Michigan,49345,USA
+308,841,2354 Marble Rd,Belding,Ionia County,Michigan,48809,USA
+309,844,6345 Goodemoot Rd,Clarksville,Ionia County,Michigan,48815,USA
+310,846,10215 8th Ave NW,Grand Rapids,Ottawa County,Michigan,49534,USA
+311,847,13697 Spring St,Coopersville,Ottawa County,Michigan,49404,USA
+312,849,2732 N Barber Rd,Hastings,Barry County,Michigan,49058,USA
+313,853,540 Glenwood Ave SE,Grand Rapids,Kent County,Michigan,49506,USA
+314,858,719 N Irving Rd,Hastings,Barry County,Michigan,49058,USA
+315,865,5204 138th Ave,Holland,Allegan County,Michigan,49423,USA
+316,866,525 Bricker St,Belding,Ionia County,Michigan,48809,USA
+317,867,300 Deer View Rd,Wayland,Allegan County,Michigan,49348,USA
+318,868,7340 Pine Bay Dr NE,Comstock Park,Kent County,Michigan,49321,USA
+319,880,1002 S Broadway St,Hastings,Barry County,Michigan,49058,USA
+320,883,4466 E River Rd,Hastings,Barry County,Michigan,49058,USA
+321,888,306 Plum St,Wayland,Allegan County,Michigan,49348,USA
+322,889,10060 60th Ave,Allendale,Ottawa County,Michigan,49401,USA
+323,890,9396 Robbins Rd,Clarksville,Ionia County,Michigan,48815,USA
+324,894,4989 Knob Hill Dr NE,Grand Rapids,Kent County,Michigan,49525,USA
+325,895,5741 Byron Rd,Zeeland,Ottawa County,Michigan,49464,USA
+326,897,10712 Stirrup Dr SE,Caledonia,Kent County,Michigan,49316,USA
+327,901,14398 124th Ave,Grand Haven,Ottawa County,Michigan,49417,USA
+328,902,891 W Quimby Rd,Hastings,Barry County,Michigan,49058,USA
+329,905,621 W Musgrove Hwy,Lake Odessa,Ionia County,Michigan,48849,USA
+330,908,8142 Grand River Dr SE,Ada,Kent County,Michigan,49301,USA
+331,910,2024 12 Mile Rd NE,Rockford,Kent County,Michigan,49341,USA
+332,912,1660 Adams St SW,Byron Center,Ottawa County,Michigan,49315,USA
+333,919,7007 Alpine Ave NW,Comstock Park,Kent County,Michigan,49321,USA
+334,920,5031 164th Ave,West Olive,Ottawa County,Michigan,49460,USA
+335,929,12982 Algoma Ave NE,Cedar Springs,Kent County,Michigan,49319,USA
+336,933,1383 E 128th St,Grant,Newaygo County,Michigan,49327,USA
+337,934,5874 Christie Ave SE,Grand Rapids,Kent County,Michigan,49508,USA
+338,935,8551 Baumhoff Ave NW,Sparta,Kent County,Michigan,49345,USA
+339,936,3905 Bell Lake Dr NE,Ada,Kent County,Michigan,49301,USA
+340,938,3884 52nd St,Holland,Allegan County,Michigan,49423,USA
+341,942,23969 Joshua Dr,Sand Lake,Montcalm County,Michigan,49343,USA
+342,943,3120 Lincoln Rd,Hamilton,Allegan County,Michigan,49419,USA
+343,944,3658 Mill Creek Dr NE,Comstock Park,Kent County,Michigan,49321,USA
+344,950,3291 Maple Hill Rd,Pierson,Montcalm County,Michigan,49339,USA
+345,953,1270 Norway Ave,Hastings,Barry County,Michigan,49058,USA
+346,956,899 N Paris Rd,Trufant,Montcalm County,Michigan,49347,USA
+347,961,2408 68th St SE,Caledonia,Kent County,Michigan,49316,USA
+348,963,3518 Boynton Ave NE,Ada,Kent County,Michigan,49301,USA
+349,964,7405 N Fry Rd,Lake Odessa,Barry County,Michigan,48849,USA
+350,965,12654 Ball Creek Rd NW,Kent City,Kent County,Michigan,49330,USA
+351,966,3934 15 Mile Rd NW,Kent City,Kent County,Michigan,49330,USA
+352,967,450 W 128th St,Grant,Newaygo County,Michigan,49327,USA
+353,969,1789 Gentian Dr SE,Grand Rapids,Kent County,Michigan,49508,USA
+354,970,6098 E 92nd St,Newaygo,Newaygo County,Michigan,49337,USA
+355,973,200 N Eastern Ave,Allegan,Allegan County,Michigan,49010,USA
+356,974,5891 Pine Vista St SE,Grand Rapids,Kent County,Michigan,49548,USA
+357,975,1731 Kenowa Ave,Casnovia,Muskegon County,Michigan,49318,USA
+358,977,2104 Krislin Dr NE,Grand Rapids,Kent County,Michigan,49505,USA
+359,980,18452 Lake Montcalm Rd,Howard City,Montcalm County,Michigan,49329,USA
+360,984,419 Chicago Dr,Holland,Ottawa County,Michigan,49423,USA
+361,987,2249 Chickering Rd,Belding,Ionia County,Michigan,48809,USA
+362,989,1034 Spaulding Ave SE,Grand Rapids,Kent County,Michigan,49546,USA
+363,991,6914 Kitson Dr NE,Rockford,Kent County,Michigan,49341,USA
+364,995,10144 56th Ave,Allendale,Ottawa County,Michigan,49401,USA
+365,998,155 Greenridge Dr NW,Grand Rapids,Kent County,Michigan,49544,USA
+366,1000,10470 Cottonwood Ct,Middleville,Barry County,Michigan,49333,USA

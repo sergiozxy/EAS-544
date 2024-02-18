@@ -1,0 +1,367 @@
+FID,Id,Address,City,County,State,Zip,Country
+0,6,911 Wickes Park Dr,Saginaw,Saginaw County,Michigan,48601,USA
+1,7,812 N Harrison St,Saginaw,Saginaw County,Michigan,48602,USA
+2,8,9102 Copper Ridge Dr,Davison,Genesee County,Michigan,48423,USA
+3,13,4713 N State Rd,Davison,Genesee County,Michigan,48423,USA
+4,15,4252 McCormick Dr,Linden,Genesee County,Michigan,48451,USA
+5,17,611 Taylor Rd,Brighton,Livingston County,Michigan,48114,USA
+6,18,1927 W Murphy Lake Rd,Millington,Tuscola County,Michigan,48746,USA
+7,21,3901 Payne Rd,Attica,Lapeer County,Michigan,48412,USA
+8,22,1306 Glenwood Ct,Milford,Oakland County,Michigan,48381,USA
+9,23,998 Eagle Dr,Fenton,Genesee County,Michigan,48430,USA
+10,28,1754 Welland St,Howell,Livingston County,Michigan,48855,USA
+11,32,4951 Meadowbrook Ln,Lake Orion,Oakland County,Michigan,48359,USA
+12,33,2075 Larkspur Ln,Grand Blanc,Genesee County,Michigan,48439,USA
+13,35,3645 Kimberley Dr,Howell,Livingston County,Michigan,48855,USA
+14,36,1478 Pacific Dr,Auburn Hills,Oakland County,Michigan,48326,USA
+15,42,4516 Imlay City Rd,Attica,Lapeer County,Michigan,48412,USA
+16,47,4101 Newark Rd,Attica,Lapeer County,Michigan,48412,USA
+17,49,2218 Berkley St,Flint,Genesee County,Michigan,48504,USA
+18,51,10110 Horning Cut Rd,Saint Charles,Saginaw County,Michigan,48655,USA
+19,54,1400 Maxwell St,Flint,Genesee County,Michigan,48532,USA
+20,63,2501 Oakview Dr,Dryden,Lapeer County,Michigan,48428,USA
+21,64,365 Clark St,Montrose,Genesee County,Michigan,48457,USA
+22,65,3362 E Henderson Rd,Owosso,Shiawassee County,Michigan,48867,USA
+23,68,9824 E Brooks Rd,Lennon,Shiawassee County,Michigan,48449,USA
+24,69,103 Maple Lane Cir,Lennon,Genesee County,Michigan,48449,USA
+25,70,2265 W Hibbard Rd,Owosso,Shiawassee County,Michigan,48867,USA
+26,71,7917 Smith Rd,Gaines,Genesee County,Michigan,48436,USA
+27,73,8231 Lennon Rd,Corunna,Shiawassee County,Michigan,48817,USA
+28,75,4412 E Mount Morris Rd,Mount Morris,Genesee County,Michigan,48458,USA
+29,77,10420 S Lewis Rd,Clio,Tuscola County,Michigan,48420,USA
+30,78,1921 Buck Tail Rd,Owosso,Shiawassee County,Michigan,48867,USA
+31,79,492 Marion Ave,Waterford,Oakland County,Michigan,48328,USA
+32,81,1039 Bird Song Ln,Milford,Oakland County,Michigan,48381,USA
+33,84,7728 Ellis Rd,Millington,Tuscola County,Michigan,48746,USA
+34,91,6962 Coffron Rd,North Branch,Lapeer County,Michigan,48461,USA
+35,92,6557 N Burkhart Rd,Howell,Livingston County,Michigan,48855,USA
+36,94,3265 Hired Hand Dr,Lapeer,Lapeer County,Michigan,48446,USA
+37,95,5343 Winell St,Clarkston,Oakland County,Michigan,48346,USA
+38,103,3034 Parkside Dr,Flint,Genesee County,Michigan,48503,USA
+39,104,11855 Baker Rd,Frankenmuth,Saginaw County,Michigan,48734,USA
+40,107,252 W South St,Morrice,Shiawassee County,Michigan,48857,USA
+41,108,2861 Spring Hill Dr,Howell,Livingston County,Michigan,48843,USA
+42,114,5434 Courtney Rd,Montrose,Saginaw County,Michigan,48457,USA
+43,116,9400 Hartland Rd,Fenton,Livingston County,Michigan,48430,USA
+44,119,6784 Trinklein Rd,Saginaw,Saginaw County,Michigan,48609,USA
+45,120,3059 Sherwood Rd,Ortonville,Oakland County,Michigan,48462,USA
+46,125,3987 Gregory Rd,Lake Orion,Oakland County,Michigan,48359,USA
+47,135,3270 Barber Rd,Oxford,Oakland County,Michigan,48371,USA
+48,146,622 Ortman St,Saginaw,Saginaw County,Michigan,48601,USA
+49,156,3040 E Vienna Rd,Clio,Genesee County,Michigan,48420,USA
+50,157,5562 Aylesbury Dr,Waterford,Oakland County,Michigan,48327,USA
+51,159,5082 N Linden Rd,Flint,Genesee County,Michigan,48504,USA
+52,170,6753 M-52,Owosso,Shiawassee County,Michigan,48867,USA
+53,171,1220 Pratt Rd,Metamora,Lapeer County,Michigan,48455,USA
+54,178,1621 Chesaning Rd,Montrose,Saginaw County,Michigan,48457,USA
+55,180,500 Hickory St,Linden,Genesee County,Michigan,48451,USA
+56,181,1296 Kurtz Rd,Holly,Oakland County,Michigan,48442,USA
+57,182,307 N Hadley Rd,Ortonville,Oakland County,Michigan,48462,USA
+58,183,3161 Bolton Rd,Lapeer,Lapeer County,Michigan,48446,USA
+59,186,5154 Fish Lake Rd,North Branch,Lapeer County,Michigan,48461,USA
+60,189,9074 Ridgefield Dr,Brighton,Livingston County,Michigan,48114,USA
+61,190,2825 Ben Dr,Highland,Oakland County,Michigan,48357,USA
+62,191,856 River Valley Dr,Lake Orion,Oakland County,Michigan,48362,USA
+63,192,12453 E Coldwater Rd,Columbiaville,Genesee County,Michigan,48421,USA
+64,193,11245 Maple Shrs,Goodrich,Genesee County,Michigan,48438,USA
+65,201,7578 Red Oak Valley Dr,Clarkston,Oakland County,Michigan,48348,USA
+66,203,3488 M-52,Owosso,Shiawassee County,Michigan,48867,USA
+67,204,3590 Havens Rd,Dryden,Lapeer County,Michigan,48428,USA
+68,207,8103 Belsay Rd,Millington,Tuscola County,Michigan,48746,USA
+69,217,11781 King Rd,Frankenmuth,Saginaw County,Michigan,48734,USA
+70,220,6423 Peet Rd,Chesaning,Saginaw County,Michigan,48616,USA
+71,223,200 Brookside Ln,Brighton,Livingston County,Michigan,48116,USA
+72,231,4961 Havens Rd,Dryden,Lapeer County,Michigan,48428,USA
+73,236,10332 Baker Dr,Clio,Tuscola County,Michigan,48420,USA
+74,237,9985 Fish Lake Rd,Holly,Oakland County,Michigan,48442,USA
+75,238,7120 N Saginaw Rd,Mount Morris,Genesee County,Michigan,48458,USA
+76,241,1795 Mead Ln,White Lake,Oakland County,Michigan,48386,USA
+77,244,1133 Fairfax St,Flint,Genesee County,Michigan,48505,USA
+78,249,900 E Millington Rd,Mayville,Lapeer County,Michigan,48744,USA
+79,251,8106 Burt Rd,Birch Run,Saginaw County,Michigan,48415,USA
+80,252,1642 Grange Hall Rd,Fenton,Oakland County,Michigan,48430,USA
+81,253,1853 W Saginaw Rd,Mayville,Tuscola County,Michigan,48744,USA
+82,254,1411 S Tipsico Lake Rd,Milford,Oakland County,Michigan,48380,USA
+83,257,4224 Potter Rd,Burton,Genesee County,Michigan,48509,USA
+84,258,4102 S Center Rd,Burton,Genesee County,Michigan,48519,USA
+85,262,1202 W Cook Rd,Grand Blanc,Genesee County,Michigan,48439,USA
+86,263,40 Pine Ln,North Branch,Lapeer County,Michigan,48461,USA
+87,267,4007 Noble Rd,Oxford,Oakland County,Michigan,48371,USA
+88,268,474 N Hidden Ridge Dr,Morrice,Shiawassee County,Michigan,48857,USA
+89,273,10287 Oak Rd,Millington,Tuscola County,Michigan,48746,USA
+90,276,6121 Crooked River Dr,Swartz Creek,Genesee County,Michigan,48473,USA
+91,277,11834 Moorish Rd,Birch Run,Saginaw County,Michigan,48415,USA
+92,283,2956 Law Rd,North Branch,Lapeer County,Michigan,48461,USA
+93,284,8539 Hyne Rd,Brighton,Livingston County,Michigan,48114,USA
+94,287,1214 E Curtis Rd,Birch Run,Saginaw County,Michigan,48415,USA
+95,289,3218 Walnut Hill Dr,Metamora,Lapeer County,Michigan,48455,USA
+96,291,8276 N Kerby Rd,Chesaning,Shiawassee County,Michigan,48616,USA
+97,293,5381 Hess Rd,Dryden,Lapeer County,Michigan,48428,USA
+98,294,16383 Murray Rd,Byron,Genesee County,Michigan,48418,USA
+99,299,7522 N Kerby Rd,Owosso,Shiawassee County,Michigan,48867,USA
+100,301,3337 N Jennings Rd,Flint,Genesee County,Michigan,48504,USA
+101,302,2621 Duana Dr,Milford,Oakland County,Michigan,48380,USA
+102,303,183 Columbiaville Rd,Columbiaville,Lapeer County,Michigan,48421,USA
+103,306,1975 Imlay City Rd,Lapeer,Lapeer County,Michigan,48446,USA
+104,307,714 Gallagher St,Saginaw,Saginaw County,Michigan,48601,USA
+105,310,3392 Perry Lake Rd,Ortonville,Oakland County,Michigan,48462,USA
+106,315,983 Arlene Ave,Pontiac,Oakland County,Michigan,48340,USA
+107,318,4300 Baldwin Rd,Holly,Genesee County,Michigan,48442,USA
+108,321,1505 E Lansing Rd,Morrice,Shiawassee County,Michigan,48857,USA
+109,325,5612 Hunt Club Farms Dr,Oxford,Lapeer County,Michigan,48371,USA
+110,328,3200 S Morrice Rd,Owosso,Shiawassee County,Michigan,48867,USA
+111,329,7314 Dodge Rd,Montrose,Genesee County,Michigan,48457,USA
+112,331,4245 Lindsey Ln,Swartz Creek,Genesee County,Michigan,48473,USA
+113,333,3385 E Bristol Rd,Burton,Genesee County,Michigan,48529,USA
+114,335,696 S Elm St,Lapeer,Lapeer County,Michigan,48446,USA
+115,336,4273 S Center Rd,Burton,Genesee County,Michigan,48519,USA
+116,339,4859 Cole Rd,Saginaw,Saginaw County,Michigan,48601,USA
+117,340,706 Willow Springs Dr,Owosso,Shiawassee County,Michigan,48867,USA
+118,342,189 Melladee Ln,Morrice,Shiawassee County,Michigan,48857,USA
+119,344,2385 N Lake George Rd,Metamora,Lapeer County,Michigan,48455,USA
+120,348,5852 Leix Rd,Mayville,Tuscola County,Michigan,48744,USA
+121,351,2574 Bertha Ave,Flint,Genesee County,Michigan,48504,USA
+122,352,1724 Gray Rd,Lapeer,Lapeer County,Michigan,48446,USA
+123,356,1646 Bald Eagle Lake Rd,Ortonville,Oakland County,Michigan,48462,USA
+124,357,4385 S Block Rd,Frankenmuth,Saginaw County,Michigan,48734,USA
+125,359,341 Ridgemont Rd,Oxford,Oakland County,Michigan,48370,USA
+126,361,14185 S Colby Rd,Perry,Shiawassee County,Michigan,48872,USA
+127,364,4894 Maple View Dr,Dryden,Lapeer County,Michigan,48428,USA
+128,366,4045 Joslyn Rd,Auburn Hills,Oakland County,Michigan,48326,USA
+129,368,3582 E Oakwood Rd,Oxford,Oakland County,Michigan,48370,USA
+130,369,1601 N State Rd,Owosso,Shiawassee County,Michigan,48867,USA
+131,372,499 Walnut Ridge Dr,Milford,Oakland County,Michigan,48381,USA
+132,373,1803 S Sheridan Rd,Lennon,Genesee County,Michigan,48449,USA
+133,376,9166 W Tuscola Rd,Frankenmuth,Saginaw County,Michigan,48734,USA
+134,377,5253 Aurand Rd,Otter Lake,Lapeer County,Michigan,48464,USA
+135,380,1302 S Durand Rd,Lennon,Shiawassee County,Michigan,48449,USA
+136,383,1440 S Linden Rd,Flint,Genesee County,Michigan,48532,USA
+137,384,1106 N Towne Commons Blvd,Fenton,Genesee County,Michigan,48430,USA
+138,386,12024 Beach Dr,Holly,Oakland County,Michigan,48442,USA
+139,387,1999 Oakbrook Dr,Ortonville,Oakland County,Michigan,48462,USA
+140,390,1632 Kensington Ave,Flint,Genesee County,Michigan,48503,USA
+141,393,11628 E Lytle Rd,Lennon,Shiawassee County,Michigan,48449,USA
+142,394,5490 N Lake Rd,Columbiaville,Lapeer County,Michigan,48421,USA
+143,405,4367 Dillon Rd,Flushing,Genesee County,Michigan,48433,USA
+144,409,11812 E Curtis Rd,Frankenmuth,Saginaw County,Michigan,48734,USA
+145,414,9281 Lane Rd,Millington,Tuscola County,Michigan,48746,USA
+146,417,1553 Farnsworth Rd,Lapeer,Lapeer County,Michigan,48446,USA
+147,418,1774 W Cohoctah Rd,Howell,Livingston County,Michigan,48855,USA
+148,423,7475 Lemon Rd,Bancroft,Shiawassee County,Michigan,48414,USA
+149,425,559 S Reese Rd,Reese,Tuscola County,Michigan,48757,USA
+150,426,3811 N Ridley Rd,Owosso,Shiawassee County,Michigan,48867,USA
+151,430,1102 Chesaning Rd,Montrose,Saginaw County,Michigan,48457,USA
+152,433,1394 Weiss St,Saginaw,Saginaw County,Michigan,48602,USA
+153,434,1337 Rollins St,Grand Blanc,Genesee County,Michigan,48439,USA
+154,438,10844 Coolidge Rd,Goodrich,Genesee County,Michigan,48438,USA
+155,440,5522 Ryan Rd,Linden,Livingston County,Michigan,48451,USA
+156,441,1573 Slater Rd,Lapeer,Lapeer County,Michigan,48446,USA
+157,446,10726 Rathbun Way,Birch Run,Saginaw County,Michigan,48415,USA
+158,447,2841 Marathon Rd,Columbiaville,Lapeer County,Michigan,48421,USA
+159,448,3696 Havens Rd,Dryden,Lapeer County,Michigan,48428,USA
+160,449,7685 Swan Creek Rd,Saginaw,Saginaw County,Michigan,48609,USA
+161,450,6192 Baldwin Rd,Swartz Creek,Genesee County,Michigan,48473,USA
+162,454,3079 N Washburn Rd,Davison,Genesee County,Michigan,48423,USA
+163,455,2394 Noble Rd,Oxford,Oakland County,Michigan,48370,USA
+164,460,10564 Lost Lake Dr,Holly,Genesee County,Michigan,48442,USA
+165,462,8666 Wilder Rd,Reese,Tuscola County,Michigan,48757,USA
+166,463,2138 W Cook Rd,Grand Blanc,Genesee County,Michigan,48439,USA
+167,466,2929 Lanier Ct,Howell,Livingston County,Michigan,48843,USA
+168,467,4930 Huston Dr,Lake Orion,Oakland County,Michigan,48359,USA
+169,468,4709 Catalina Dr,Lake Orion,Oakland County,Michigan,48359,USA
+170,471,13229 Fagan Rd,Holly,Oakland County,Michigan,48442,USA
+171,473,2170 Paulsen Dr,Waterford,Oakland County,Michigan,48327,USA
+172,480,19279 S Raucholz Rd,Oakley,Saginaw County,Michigan,48649,USA
+173,482,9130 McWain Rd,Grand Blanc,Genesee County,Michigan,48439,USA
+174,483,669 Lakeside Dr,Waterford,Oakland County,Michigan,48328,USA
+175,484,2603 Brunkow Ct,Saginaw,Saginaw County,Michigan,48601,USA
+176,488,3811 Peppermill Rd,Attica,Lapeer County,Michigan,48412,USA
+177,489,6255 Linden Rd,Fenton,Livingston County,Michigan,48430,USA
+178,496,145 Dogwood Dr,Oakland,Oakland County,Michigan,48363,USA
+179,498,7838 Parshallville Rd,Fenton,Livingston County,Michigan,48430,USA
+180,500,101 S Elm Grove Rd,Lapeer,Lapeer County,Michigan,48446,USA
+181,514,3413 Van Geisen Rd,Caro,Tuscola County,Michigan,48723,USA
+182,518,4607 Summers Rd,North Branch,Lapeer County,Michigan,48461,USA
+183,520,8475 N Lapeer Rd,Mayville,Lapeer County,Michigan,48744,USA
+184,523,2140 Kings Mill Rd,Lapeer,Lapeer County,Michigan,48446,USA
+185,524,3936 Pratt Rd,Metamora,Lapeer County,Michigan,48455,USA
+186,525,5779 Layton Rd,Fowlerville,Livingston County,Michigan,48836,USA
+187,527,2345 Amberwood Trl,Howell,Livingston County,Michigan,48855,USA
+188,528,13515 N Genesee Rd,Clio,Genesee County,Michigan,48420,USA
+189,534,2859 W Predmore Rd,Oakland,Oakland County,Michigan,48363,USA
+190,536,5077 Elkin St,Commerce Township,Oakland County,Michigan,48382,USA
+191,537,3768 Stoney Creek Rd,Oakland,Oakland County,Michigan,48363,USA
+192,547,2384 White Lake Rd,Highland,Oakland County,Michigan,48356,USA
+193,553,2206 Wagner Dr,Caro,Tuscola County,Michigan,48723,USA
+194,554,1826 Dakota Ave,Flint,Genesee County,Michigan,48506,USA
+195,562,467 Pingree Ave,Flint,Genesee County,Michigan,48503,USA
+196,566,4458 Oakbridge Dr,Flint,Genesee County,Michigan,48532,USA
+197,568,534 Shoreview Dr,Waterford,Oakland County,Michigan,48328,USA
+198,571,3313 Krouse Rd,Owosso,Shiawassee County,Michigan,48867,USA
+199,572,5338 Enos Rd,Vassar,Tuscola County,Michigan,48768,USA
+200,574,321 N Force Rd,Attica,Lapeer County,Michigan,48412,USA
+201,575,5906 Hayner Rd,Fowlerville,Livingston County,Michigan,48836,USA
+202,580,1113 E Lake Rd,Clio,Genesee County,Michigan,48420,USA
+203,582,4179 E Wilson Rd,Clio,Genesee County,Michigan,48420,USA
+204,585,8346 Grand Blanc Rd,Swartz Creek,Genesee County,Michigan,48473,USA
+205,588,11592 Herrington Rd,Byron,Genesee County,Michigan,48418,USA
+206,595,9181 Bancroft Rd,Bancroft,Shiawassee County,Michigan,48414,USA
+207,596,3523 Miller Rd,Perry,Shiawassee County,Michigan,48872,USA
+208,597,10150 Canada Rd,Birch Run,Saginaw County,Michigan,48415,USA
+209,601,4014 Stanley Rd,Columbiaville,Lapeer County,Michigan,48421,USA
+210,602,316 Parker Lake Dr,Oxford,Oakland County,Michigan,48371,USA
+211,607,2578 Schaefer St,Saginaw,Saginaw County,Michigan,48602,USA
+212,617,3834 Dean Rd,Howell,Livingston County,Michigan,48855,USA
+213,621,18427 S Raucholz Rd,Oakley,Saginaw County,Michigan,48649,USA
+214,624,4976 Fergus Rd,Saint Charles,Saginaw County,Michigan,48655,USA
+215,625,10069 E Potter Rd,Davison,Genesee County,Michigan,48423,USA
+216,627,1116 Kra Nur Dr,Burton,Genesee County,Michigan,48509,USA
+217,629,1360 Higgins Rd,Caro,Tuscola County,Michigan,48723,USA
+218,636,6250 Fergus Rd,Saint Charles,Saginaw County,Michigan,48655,USA
+219,637,9579 Belsay Rd,Millington,Tuscola County,Michigan,48746,USA
+220,647,13782 Lincoln Rd,Montrose,Saginaw County,Michigan,48457,USA
+221,650,9341 Pierson Rd,Fowlerville,Livingston County,Michigan,48836,USA
+222,658,1718 Castle Rd,North Branch,Lapeer County,Michigan,48461,USA
+223,659,319 N 22nd St,Saginaw,Saginaw County,Michigan,48601,USA
+224,660,1808 Sarles Rd,Silverwood,Lapeer County,Michigan,48760,USA
+225,661,771 E Alpha Pkwy,Waterford,Oakland County,Michigan,48328,USA
+226,662,1275 E Rattalee Lake Rd,Holly,Oakland County,Michigan,48442,USA
+227,664,933 Wildbrook Ln,Lake Orion,Oakland County,Michigan,48362,USA
+228,669,1908 S Latson Rd,Howell,Livingston County,Michigan,48843,USA
+229,670,10237 Bell Oak Rd,Fowlerville,Livingston County,Michigan,48836,USA
+230,672,33 Canary Dr,Swartz Creek,Genesee County,Michigan,48473,USA
+231,673,992 River Rock Dr,Holly,Oakland County,Michigan,48442,USA
+232,675,6234 W Dodge Rd,Clio,Genesee County,Michigan,48420,USA
+233,679,2981 Foxfire Dr,Milford,Oakland County,Michigan,48380,USA
+234,682,562 N Mueller Rd,Saginaw,Saginaw County,Michigan,48601,USA
+235,687,3219 Lakewood Dr,Flint,Genesee County,Michigan,48507,USA
+236,692,8323 Winnesk Ct,Brighton,Livingston County,Michigan,48114,USA
+237,699,5775 Martus Rd,North Branch,Lapeer County,Michigan,48461,USA
+238,707,5032 Mobile Dr,Flint,Genesee County,Michigan,48507,USA
+239,713,6031 Berrymoor Dr,Grand Blanc,Genesee County,Michigan,48439,USA
+240,715,4005 Nancy Dr,Brighton,Livingston County,Michigan,48114,USA
+241,716,4537 Phillips Rd,Metamora,Lapeer County,Michigan,48455,USA
+242,717,12421 E Carpenter Rd,Davison,Genesee County,Michigan,48423,USA
+243,719,10810 Easton Rd,New Lothrop,Shiawassee County,Michigan,48460,USA
+244,720,7395 Rich Rd,Fostoria,Lapeer County,Michigan,48435,USA
+245,722,6035 State St,Saginaw,Saginaw County,Michigan,48603,USA
+246,725,10543 Marsh Rd,Fowlerville,Livingston County,Michigan,48836,USA
+247,726,16216 East Dr,Holly,Oakland County,Michigan,48442,USA
+248,729,8047 Baldwin Rd,Swartz Creek,Genesee County,Michigan,48473,USA
+249,731,4699 McBride Rd,Owosso,Shiawassee County,Michigan,48867,USA
+250,737,325 Franklin Lake Cir,Oxford,Oakland County,Michigan,48371,USA
+251,738,1016 Garland St,Flint,Genesee County,Michigan,48503,USA
+252,741,1994 W Garrison Rd,Owosso,Shiawassee County,Michigan,48867,USA
+253,745,405 Valley Dr,Mount Morris,Genesee County,Michigan,48458,USA
+254,746,1830 Ferns Rd,Lapeer,Lapeer County,Michigan,48446,USA
+255,748,3755 E Curtis Rd,Birch Run,Saginaw County,Michigan,48415,USA
+256,749,4672 McDonald Ct,Brighton,Livingston County,Michigan,48116,USA
+257,750,301 N New Lothrop Rd,Lennon,Shiawassee County,Michigan,48449,USA
+258,752,478 E Van Buren Cir,Davison,Genesee County,Michigan,48423,USA
+259,753,3738 Lansing Rd,Perry,Shiawassee County,Michigan,48872,USA
+260,757,6200 State St,Saginaw,Saginaw County,Michigan,48603,USA
+261,759,3171 Birch Run Rd,Millington,Tuscola County,Michigan,48746,USA
+262,761,193 N Lapeer St,Lake Orion,Oakland County,Michigan,48362,USA
+263,763,18509 W Ridge Rd,Henderson,Saginaw County,Michigan,48841,USA
+264,769,1502 N Old US 23,Howell,Livingston County,Michigan,48843,USA
+265,770,12348 Sheridan Rd,Burt,Saginaw County,Michigan,48417,USA
+266,771,12137 Marion Rd,Saint Charles,Saginaw County,Michigan,48655,USA
+267,773,8239 Torrey Rd,Grand Blanc,Genesee County,Michigan,48439,USA
+268,775,9985 Old Farm Trl,Davisburg,Oakland County,Michigan,48350,USA
+269,777,5840 Ormes Rd,Vassar,Tuscola County,Michigan,48768,USA
+270,778,1736 E Hibbard Rd,Owosso,Shiawassee County,Michigan,48867,USA
+271,779,2696 Rowe Rd,Milford,Oakland County,Michigan,48380,USA
+272,780,15113 Stuart Rd,Chesaning,Saginaw County,Michigan,48616,USA
+273,781,11286 Heidi Jane Ln,Fowlerville,Livingston County,Michigan,48836,USA
+274,784,4429 W Buck Rd,Henderson,Shiawassee County,Michigan,48841,USA
+275,786,3400 Williams Rd,Columbiaville,Lapeer County,Michigan,48421,USA
+276,790,5069 W Saginaw Rd,Vassar,Tuscola County,Michigan,48768,USA
+277,791,5223 Hunters Creek Rd,Attica,Lapeer County,Michigan,48412,USA
+278,796,12487 Railroad Rd,Clio,Genesee County,Michigan,48420,USA
+279,799,5336 Morrish Rd,Swartz Creek,Genesee County,Michigan,48473,USA
+280,802,11343 Baldwin Rd,Chesaning,Saginaw County,Michigan,48616,USA
+281,803,1171 Richardson Rd,Owosso,Shiawassee County,Michigan,48867,USA
+282,806,12453 Silver Creek Ct,Clio,Genesee County,Michigan,48420,USA
+283,807,12359 Gale Rd,Otisville,Genesee County,Michigan,48463,USA
+284,811,7240 Rodgers St,Genesee,Genesee County,Michigan,48437,USA
+285,812,6530 Hess Rd,Vassar,Tuscola County,Michigan,48768,USA
+286,813,2703 Golfside Ln,Flint,Genesee County,Michigan,48504,USA
+287,815,9450 Henderson Rd,Otisville,Genesee County,Michigan,48463,USA
+288,819,7567 E Bennington Rd,Durand,Shiawassee County,Michigan,48429,USA
+289,823,4635 N Burkhart Rd,Howell,Livingston County,Michigan,48855,USA
+290,824,8280 Crapo St,Swartz Creek,Genesee County,Michigan,48473,USA
+291,825,1814 S Hadley Rd,Ortonville,Oakland County,Michigan,48462,USA
+292,826,4548 Timberidge Ct,Brighton,Livingston County,Michigan,48116,USA
+293,829,10398 Henderson Rd,Otisville,Genesee County,Michigan,48463,USA
+294,831,4253 N Squirrel Rd,Auburn Hills,Oakland County,Michigan,48326,USA
+295,836,2064 Montague Rd,Davison,Genesee County,Michigan,48423,USA
+296,837,6605 Washburn Rd,Vassar,Tuscola County,Michigan,48768,USA
+297,839,1669 Ranch Rd,Holly,Oakland County,Michigan,48442,USA
+298,840,9499 Foley Xing,Fenton,Livingston County,Michigan,48430,USA
+299,841,2157 Twilight Trce,Milford,Oakland County,Michigan,48380,USA
+300,844,349 N Durand Rd,Corunna,Shiawassee County,Michigan,48817,USA
+301,847,5192 N Center Rd,Flint,Genesee County,Michigan,48506,USA
+302,851,4456 E M-71,Corunna,Shiawassee County,Michigan,48817,USA
+303,852,6670 Peet Rd,Chesaning,Saginaw County,Michigan,48616,USA
+304,853,5280 Millis Rd,North Branch,Lapeer County,Michigan,48461,USA
+305,855,7540 Fowlerville Rd,Fowlerville,Livingston County,Michigan,48836,USA
+306,856,8145 Nichols Rd,Gaines,Genesee County,Michigan,48436,USA
+307,857,10811 Moorish Rd,Birch Run,Saginaw County,Michigan,48415,USA
+308,858,4658 Island Park Dr,Waterford,Oakland County,Michigan,48329,USA
+309,860,1028 N Leroy St,Fenton,Genesee County,Michigan,48430,USA
+310,861,10740 W Grand River Rd,Fowlerville,Livingston County,Michigan,48836,USA
+311,863,1571 N Hickory Rd,Owosso,Shiawassee County,Michigan,48867,USA
+312,869,3751 Juniper St,Clarkston,Oakland County,Michigan,48348,USA
+313,870,6940 Hess Rd,Vassar,Tuscola County,Michigan,48768,USA
+314,871,8672 N State Rd,Chesaning,Shiawassee County,Michigan,48616,USA
+315,872,7285 Elmcrest Ave,Mount Morris,Genesee County,Michigan,48458,USA
+316,874,8895 E Lovejoy Rd,Perry,Livingston County,Michigan,48872,USA
+317,876,349 W State St,Montrose,Genesee County,Michigan,48457,USA
+318,882,7240 Sheridan Rd,Millington,Tuscola County,Michigan,48746,USA
+319,884,4356 Willard Rd,Birch Run,Saginaw County,Michigan,48415,USA
+320,885,2579 Hubert Rd,Brighton,Livingston County,Michigan,48114,USA
+321,888,3093 S Oak Rd,Davison,Genesee County,Michigan,48423,USA
+322,890,4310 Hagerman Rd,Leonard,Oakland County,Michigan,48367,USA
+323,892,144 E Brown Rd,Mayville,Lapeer County,Michigan,48744,USA
+324,894,3474 E Pierson Rd,Flint,Genesee County,Michigan,48506,USA
+325,897,1079 S Dye Rd,Flint,Genesee County,Michigan,48532,USA
+326,898,5223 Renee Ct,Fowlerville,Livingston County,Michigan,48836,USA
+327,899,18849 East Rd,New Lothrop,Saginaw County,Michigan,48460,USA
+328,901,5294 Canada Rd,Birch Run,Saginaw County,Michigan,48415,USA
+329,902,2275 Sandpiper Dr,Lapeer,Lapeer County,Michigan,48446,USA
+330,904,1967 N Towerline Rd,Saginaw,Saginaw County,Michigan,48601,USA
+331,905,11409 W Corunna Rd,Lennon,Genesee County,Michigan,48449,USA
+332,915,567 Roselane Dr,Howell,Livingston County,Michigan,48843,USA
+333,918,690 W Livingston Rd,Highland,Oakland County,Michigan,48357,USA
+334,919,9461 Linden Rd,Swartz Creek,Genesee County,Michigan,48473,USA
+335,920,1959 E M-21,Owosso,Shiawassee County,Michigan,48867,USA
+336,921,8398 Middleton Rd,Corunna,Shiawassee County,Michigan,48817,USA
+337,924,9323 Waterman Rd,Vassar,Tuscola County,Michigan,48768,USA
+338,925,11191 Ray Rd,Gaines,Genesee County,Michigan,48436,USA
+339,927,9448 Brookway Ct,Goodrich,Genesee County,Michigan,48438,USA
+340,928,6009 Elm Trl,Grand Blanc,Genesee County,Michigan,48439,USA
+341,931,2635 Clark Rd,Lapeer,Lapeer County,Michigan,48446,USA
+342,933,50 Lone Oak Dr,Attica,Lapeer County,Michigan,48412,USA
+343,934,13340 Crane Ridge Dr,Fenton,Genesee County,Michigan,48430,USA
+344,942,13389 Taylor Rd,Millington,Genesee County,Michigan,48746,USA
+345,944,3645 Genesys Pkwy,Grand Blanc,Genesee County,Michigan,48439,USA
+346,946,1338 Braden Rd,Perry,Shiawassee County,Michigan,48872,USA
+347,947,3363 N Branch Rd,North Branch,Lapeer County,Michigan,48461,USA
+348,951,10719 Jewell Rd,Gaines,Genesee County,Michigan,48436,USA
+349,954,3155 Benstein Rd,Walled Lake,Oakland County,Michigan,48390,USA
+350,957,18743 Bishop Rd,Chesaning,Saginaw County,Michigan,48616,USA
+351,960,10025 Grand Blanc Rd,Gaines,Genesee County,Michigan,48436,USA
+352,961,4501 Mapleton Dr,Howell,Livingston County,Michigan,48843,USA
+353,964,3345 Glasby St,Saginaw,Saginaw County,Michigan,48601,USA
+354,965,11025 N Clio Rd,Clio,Genesee County,Michigan,48420,USA
+355,966,1398 E Beard Rd,Perry,Shiawassee County,Michigan,48872,USA
+356,972,1560 Lowood Trl,Leonard,Oakland County,Michigan,48367,USA
+357,973,13312 Tuscola Rd,Clio,Genesee County,Michigan,48420,USA
+358,976,3197 Chilson Rd,Howell,Livingston County,Michigan,48843,USA
+359,977,325 1st St,Milford,Oakland County,Michigan,48381,USA
+360,988,3940 Trout Creek Ln,Oakland,Oakland County,Michigan,48363,USA
+361,989,6309 Reinbold Rd,Vassar,Tuscola County,Michigan,48768,USA
+362,993,125 W Lakeview Ave,Flint,Genesee County,Michigan,48503,USA
+363,998,1146 Devenish Ln,Flint,Genesee County,Michigan,48532,USA
+364,999,2159 Stonesthrow Dr,Lapeer,Lapeer County,Michigan,48446,USA
+365,1000,6239 Muirfield Dr,Grand Blanc,Genesee County,Michigan,48439,USA
